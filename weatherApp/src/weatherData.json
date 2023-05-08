@@ -1,0 +1,46 @@
+{
+  "coord": {
+    "lon": 21.75,
+    "lat": 46.3333
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 280.88,
+    "feels_like": 280.12,
+    "temp_min": 280.88,
+    "temp_max": 281.1,
+    "pressure": 1025,
+    "humidity": 50,
+    "sea_level": 1025,
+    "grnd_level": 1012
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 1.58,
+    "deg": 306,
+    "gust": 1.39
+  },
+  "clouds": {
+    "all": 9
+  },
+  "dt": 1679046303,
+  "sys": {
+    "type": 2,
+    "id": 50389,
+    "country": "RO",
+    "sunrise": 1679028178,
+    "sunset": 1679071205
+  },
+  "timezone": 7200,
+  "id": 686253,
+  "name": "Arad",
+  "cod": 200
+}
